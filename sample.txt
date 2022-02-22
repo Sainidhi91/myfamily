@@ -1,1 +1,3 @@
 this is a sample file
+today i recap how to create repo locally with out using github
+then creation of repo from github and cloned into the local reop
